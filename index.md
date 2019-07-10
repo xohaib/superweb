@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+WordPress (WordPress.org) is a free and open-source content management system (CMS) based on PHP & MySQL.[4] Features include a plugin architecture and a template system. It is most associated with blogging but supports other types of web content including more traditional mailing lists and forums, media galleries, and online stores. Used by more than 60 million websites,[5] including 33.6% of the top 10 million websites as of April 2019,[6][7] WordPress is the most popular website management system in use.[8] WordPress has also been used for other application domains such as pervasive display systems (PDS).[9]
 
-You can use the [editor on GitHub](https://github.com/xohaib/superweb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+WordPress was released on May 27, 2003, by its founders, Matt Mullenweg[1] and Mike Little,[10][11] as a fork of b2/cafelog. The software is released under the GPLv2 (or later) license.[12]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xohaib/superweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To function, WordPress has to be installed on a web server, either part of an Internet hosting service like WordPress.com or a computer running the software package WordPress.org in order to serve as a network host in its own right.[13] A local computer may be used for single-user testing and learning purposes.
